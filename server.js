@@ -14,11 +14,11 @@
 
 *
 
-* Cyclic Web App URL: 
+* Cyclic Web App URL: https://cute-jade-walrus-cape.cyclic.cloud
 
 *
 
-* GitHub Repository URL: 
+* GitHub Repository URL: https://github.com/rishixgoyal/Assignment_6
 
 *
 
